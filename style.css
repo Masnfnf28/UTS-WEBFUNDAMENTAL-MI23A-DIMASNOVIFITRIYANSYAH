@@ -1,0 +1,26 @@
+
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #0099ff;
+}
+.display-4 {
+    font-family: 'Times New Roman', Times, serif;
+}
+#education {
+  background-color: #0099ff;
+}
+.table {
+  margin-left: 7rem;margin-right: auto;
+}
+#skill {
+  padding-top: 3rem;
+  background-color: #0099ff;
+}
+#contact{
+  background-color: #fff;
+}
+
+section{
+  padding-top: 4rem;
+}
